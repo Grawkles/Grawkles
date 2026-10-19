@@ -1,5 +1,4 @@
-# Juan Manuel · ColoradoDev
-
+# Juan Manuel · Grawkles
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&weight=500\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=480\&lines=Backend+Developer+%7C+Full+Stack;REST+APIs+%2B+Software+Architecture;Pereira%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
@@ -9,7 +8,7 @@
 <br>
 
 ```yaml
-name:      Juan Manuel (ColoradoDev)
+name:      Juan Manuel (Grawkles)
 location:  Pereira, Colombia
 role:      Freelance Web Developer
 focus:     Backend Developer · Full Stack
